@@ -1,0 +1,8 @@
+{
+    "сайты": [
+        {"название": "youtube", "ссылка": "https://www.youtube.com/"},
+        {"название": "google", "ссылка": "https://www.google.com/"},
+        {"название": "gtarp", "ссылка": "https://gta5rp.com/"},
+        {"название": "github", "ссылка": "https://github.com/"}
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "csgo": {
+        "name": "Counter-Strike: Global Offensive",
+        "path": "steam://rungameid/730",
+        "procces": "csgo.exe"
+    },
+    "telegram": {
+        "name": "Telegram",
+        "path": "D:\\Telegram Desktop\\Telegram.exe",
+        "procces": "Telegram.exe"
+    },
+    "steam": {
+        "name": "Steam",
+        "path": "D:\\Steam\\steam.exe",
+        "procces": "steam.exe"
+    },
+    "chrome" : {
+        "name": "Chrome",
+        "path": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+        "procces": "chrome.exe"
+    },
+    "google" : {
+        "name": "Google Chrome",
+        "path": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+        "procces": "chrome.exe"
+    }
+}
